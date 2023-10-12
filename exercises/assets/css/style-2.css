@@ -13,6 +13,7 @@ body { padding: 4% 20% }
 
 /* ================= ENDS ================ */
 /* Desktops */
+body { background-color: purple; }
 @media (min-width: 768px) {
     body { padding: 4% 20% }
  }
@@ -21,13 +22,14 @@ body { padding: 4% 20% }
  @media (max-width: 767px) {
     body { padding: 8% 5% }
  }
- 
+
 h1 {
     font-size: 84px;
     margin-bottom: 64px;
     text-align: center;
     font-weight: normal;
     letter-spacing: 4px;
+    color: white;
 }
 
 h2 {
@@ -35,6 +37,7 @@ h2 {
     margin-bottom: 4px;
     margin-top: 54px;
     text-transform: uppercase;
+    color: white;
 }
 
 p {
@@ -42,4 +45,5 @@ p {
     font-family: sans-serif;
     line-height: 1.6;
     margin-bottom: 20px;
+    color: white;
 }

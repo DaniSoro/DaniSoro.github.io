@@ -11,6 +11,7 @@ input, button, textarea, select { font: inherit }
 
 /* ================= ENDS ================ */
 /* Desktops */
+body { background-color: lightgreen; }
 @media (min-width: 768px) {
     body { padding: 4% 20% }
  }
@@ -52,3 +53,4 @@ p {
     margin-bottom: 16px;
 }
 
+a { color: darkgreen; }
