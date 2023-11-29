@@ -1,14 +1,101 @@
+header.theme-light { background-color: var(--cyan-800) }
+header.theme-light h1 { color: var(--cyan-200) }
+header.theme-light h1 span.highlight { color: var(--trend-050) }
+header.theme-light h2 { color: var(--teal-100) }
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--trend-900) }
+nav.theme-dark a#btn-cta:link,
+nav.theme-dark a#btn-cta:visited { background-color: var(--cyan-800) }
+nav.theme-dark ul.links-wrapper li a:link,
+nav.theme-dark ul.links-wrapper li a:visited { color: var(--trend-400) }
+nav.theme-dark a#btn-cta:link,
+nav.theme-dark a#btn-cta:visited { border-color: var(--cyan-800) }
+nav.theme-dark a#btn-cta:link,
+nav.theme-dark a#btn-cta:visited { color: var(--cyan-400) }
+header.theme-light .container-btn a.btn:nth-child(1):link,
+header.theme-light .container-btn a.btn:nth-child(1):visited { color: var(--cyan-800) }
 
-nav.theme-dark, nav.theme-dark ul.links-wrapper.active { background-color: #0f172a }
+header.theme-light .container-btn a.btn:nth-child(1):link,
+header.theme-light .container-btn a.btn:nth-child(1):visited { background-color: var(--sky-200) }
 
-header.theme-dark   { background-color: #0f172a }
+header.theme-light .container-btn a.btn:nth-child(1):link,
+header.theme-light .container-btn a.btn:nth-child(1):visited { border-color: var(--sky-200) }
 
-header.theme-dark  h1 { color: var(--sky-400); }
+header.theme-light .container-btn a.btn:nth-child(2):link,
+header.theme-light .container-btn a.btn:nth-child(2):visited { border-color: var(--sky-200) }
 
-section.theme-dark   { background-color: #0f172a }
+header.theme-light .container-btn a.btn:nth-child(2):link,
+header.theme-light .container-btn a.btn:nth-child(2):visited { color: var(--sky-200) }
 
-footer.theme-dark   { background-color: #0f172a }
+footer.theme-dark { background-color: var(--teal-900) }
+footer.theme-dark .col-3 h3 { color: var(--red-400) }
+footer.theme-dark .col-3 h3 { color: var(--gray-400) }
+footer.theme-dark .col-3 h3 { color: var(--sky-300) }
+footer.theme-dark .col-3 h3 { color: var(--sky-100) }
+footer.theme-dark .col-3 h3 { color: var(--lime-300) }
+footer.theme-dark .col-3 h3 { color: var(--lime-100) }
+footer.theme-dark .col-3 p { color: var(--trend-300) }
+footer.theme-dark .copyright p { color: var(--white-000) }
+footer.theme-dark ul.footer-links li a:link,
+footer.theme-dark ul.footer-links li a:visited { color: var(--sky-200) }
+
+footer.theme-dark ul.footer-links li a:focus,
+footer.theme-dark ul.footer-links li a:hover,
+footer.theme-dark ul.footer-links li a:active { color: var(--sky-200) }
+
+footer.theme-dark .col-3 h2 { color: var(--lime-200) }
 
 
 
-header .col-text h2, .col-1 > h3 { line-height: 1.8 }
+.section-selector-1.theme-light { background-color: var(--cyan-500) }
+.section-selector-1 .col-1 h3 { color: var(--lime-050) }
+.section-selector-1 .col-1 h2 { color: var(--trend-800) }
+.section-selector-1 .col-3 p { color: var(--lime-200) }
+.section-selector-1 .col-3 li { color: var(--lime-200) }
+.section-selector-1 a.btn:link,
+.section-selector-1 a.btn:visited { color: var(--lime-200) }
+
+.section-selector-1 a.btn:link,
+.section-selector-1 a.btn:visited { background-color: var(--green-700) }
+
+.section-selector-1 a.btn:link,
+.section-selector-1 a.btn:visited { border-color: var(--green-800) }
+
+.section-selector-1 .col-3 h3 { color: var(--green-800) }
+.section-selector-1.theme-light { background-color: var(--cyan-500) }
+.section-selector-1 .col-3 p { color: var(--lime-200) }
+.section-selector-1 .col-3 li { color: var(--lime-200) }
+.section-selector-1 a.btn:link,
+.section-selector-1 a.btn:visited { color: var(--lime-200) }
+
+.section-selector-1 a.btn:link,
+.section-selector-1 a.btn:visited { background-color: var(--green-700) }
+
+.section-selector-1 a.btn:link,
+.section-selector-1 a.btn:visited { border-color: var(--green-800) }
+
+
+.section-selector-1 .col-1 h2 { color: var(--cyan-800) }
+.section-selector-1 .col-1 h3 { color: var(--teal-100) }
+
+h1{font-family:'Playfair Display', sans-serif;}
+h2{font-family: 'Playfair Display', serif ;}
+
+body {
+    font-family: 'Roboto Serif', serif;
+  }
+  
+  p {
+    font-family: 'Roboto Serif', serif;
+    
+  }
+  
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600; 
+  }
+
+
+  
+
