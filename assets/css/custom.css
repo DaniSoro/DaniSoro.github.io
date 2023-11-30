@@ -79,14 +79,16 @@ footer.theme-dark .col-3 h2 { color: var(--lime-200) }
 .section-selector-1 .col-1 h3 { color: var(--teal-100) }
 
 h1{font-family:'Playfair Display', sans-serif;}
-h2{font-family: 'Playfair Display', serif ;}
+h2{font-family: 'Playfair Display', serif ; }
+
+
 
 body {
     font-family: 'Roboto Serif', serif;
   }
   
   p {
-    font-family: 'Roboto Serif', serif;
+    font-family: 'Roboto Serif', serif,;
     
   }
   
@@ -96,6 +98,13 @@ h3 {
     font-weight: 600; 
   }
 
+  
+  .author span {
+    font-style: italic;
+    color: navy;
+  }
 
+  
+ 
   
 
